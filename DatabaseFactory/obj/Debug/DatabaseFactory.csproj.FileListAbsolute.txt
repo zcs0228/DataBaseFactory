@@ -1,0 +1,8 @@
+D:\zcsgit\DataBaseFactory\DatabaseFactory\DatabaseFactory\bin\Debug\DatabaseFactory.dll
+D:\zcsgit\DataBaseFactory\DatabaseFactory\DatabaseFactory\bin\Debug\DatabaseFactory.pdb
+D:\zcsgit\DataBaseFactory\DatabaseFactory\DatabaseFactory\obj\Debug\DatabaseFactory.dll
+D:\zcsgit\DataBaseFactory\DatabaseFactory\DatabaseFactory\obj\Debug\DatabaseFactory.pdb
+E:\zcsgit\DataBaseFactory\DatabaseFactory\DatabaseFactory\bin\Debug\DatabaseFactory.dll
+E:\zcsgit\DataBaseFactory\DatabaseFactory\DatabaseFactory\bin\Debug\DatabaseFactory.pdb
+E:\zcsgit\DataBaseFactory\DatabaseFactory\DatabaseFactory\obj\Debug\DatabaseFactory.dll
+E:\zcsgit\DataBaseFactory\DatabaseFactory\DatabaseFactory\obj\Debug\DatabaseFactory.pdb
